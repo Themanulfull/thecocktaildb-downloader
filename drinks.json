@@ -1,4 +1,4 @@
-let drinks = [{
+{"drinks": [{
         "idDrink": "11000",
         "strDrink": "A Furlong Too Late",
         "strVideo": null,
@@ -23533,5 +23533,4 @@ let drinks = [{
         "strMeasure15": null,
         "dateModified": "2018-06-27 15:15:09"
     }
-];
-export default drinks;
+]}
